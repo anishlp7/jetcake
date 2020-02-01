@@ -1,0 +1,21 @@
+.homepage-container{
+    margin: 200px 0;
+    padding: 0;
+
+    .hero{
+        font-size: 70px;
+        font-weight: bold; 
+        color: white;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .information-content{
+        font-size: 20px;
+        display: flex;
+        justify-content: left;
+        color: white;
+    }
+}

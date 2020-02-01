@@ -1,0 +1,22 @@
+.sign-up{
+        display: flex;
+        position: relative;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+
+        .title{
+            margin: 10px 0;
+            color: white;
+        }
+
+        .form-align {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+        .sign-up-form{
+            width: 35%;
+            text-align: center;
+        }
+    }

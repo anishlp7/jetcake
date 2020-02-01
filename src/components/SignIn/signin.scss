@@ -1,0 +1,28 @@
+.sign-in {
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+
+    h1{
+        color: white;
+    }
+
+    .title {
+        margin:10px 0;
+    }
+    .form-align {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        background-color: #007bff;
+    }
+    .form-signin{
+        width:35%;
+        text-align: center;
+        background-color: #007bff;
+    }
+    .buttons{
+        display: flex;
+        justify-content: space-between;
+    }
+}
